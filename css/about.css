@@ -1,0 +1,14 @@
+#about{
+	padding: 50px 100px;
+	background-color: white;
+}
+.about-heading{
+	font-family: 'Montserrat Alternates', sans-serif;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.about-img{
+	width: 400px;
+	height: 450px;
+	border-radius: 3%;
+}

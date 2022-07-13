@@ -1,0 +1,17 @@
+#album{
+	background-color: white;
+	padding: 50px 70px;
+}
+.album-heading{
+	font-family: 'montserrat alternates', sans-serif;
+	margin-bottom: 40px;
+	text-align: center;
+}
+.album-img{
+	width: 200px;
+	height: 200px;
+}
+.album-button{
+	margin-top: 30px;
+	border-radius: 20px;
+}

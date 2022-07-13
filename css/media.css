@@ -1,0 +1,12 @@
+#media{
+	background-color: white;
+	padding: 50px 200px;
+}
+.media-heading{
+	font-family: 'montserrat alternates', sans-serif;
+	margin-bottom: 40px;
+	text-align: center;
+}
+.media-img{
+	margin: 10px;
+}

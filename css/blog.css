@@ -1,0 +1,9 @@
+#blog-page{
+	background-color: white;
+	padding: 50px 70px;
+}
+.blog-page-heading{
+	font-family: 'montserrat alternates', sans-serif;
+	margin-bottom: 40px;
+	text-align: center;
+}

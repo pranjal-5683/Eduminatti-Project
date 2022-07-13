@@ -1,0 +1,19 @@
+#service{
+	padding: 50px 100px;
+	background-color: white;
+}
+.service-page-heading{
+	font-family: 'montserrat alternates', sans-serif;
+	margin-bottom: 40px;
+	text-align: center;
+}
+.service-page-img{
+	width: 300px;
+	height: 420px;
+	border-radius: 5%;
+	margin-top: 2.5rem;
+}
+.carousel-heading{
+	text-align: center;
+	font-family: 'montserrat alternates', sans-serif;
+}
